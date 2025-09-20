@@ -6,11 +6,11 @@ st.markdown(
     r"""
     ---
     <h2>Hi there, 
-    This app tells you the temperature in any locations around the world</h2>    
+    This app tells you the weather in any locations around the world</h2>    
    
 
 """, unsafe_allow_html=True
-    
+
 
 )
 
