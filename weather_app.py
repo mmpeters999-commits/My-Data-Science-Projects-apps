@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import requests
 
-
+# Inject custom CSS for theming
 st.markdown(
     """
     <style>
@@ -54,7 +54,7 @@ st.markdown(
     ---
 
     <h2>Hi there,</h2>
-    <p>This app tells you the weather in any locations around the world</p>
+    <p>This app tells you the temperature in any locations around the world</p>
     """,
     unsafe_allow_html=True
 )
